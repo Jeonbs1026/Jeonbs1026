@@ -61,6 +61,7 @@ Welcome to my page.
 ## 🏆 Certifications & Awards
 
 *   **[ 대상 ]** - 제주 AI 청소년 경진대회 (멘토) / 마음AI (2025.12)
+*   **[ 추가예정 ]** - XX대회 / 제주 (20XX.XX)
 
 ---
 <p align="center">Cya.</p>
