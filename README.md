@@ -1,8 +1,10 @@
 <div align="center">
 
-# GiWoo Jung
-
-**Dev.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=E6EDF3&background=00000000&center=true&vCenter=true&width=460&lines=GiWoo+Jung;Dev.+GiWoo+Jung">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=1F2328&background=00000000&center=true&vCenter=true&width=460&lines=GiWoo+Jung;Dev.+GiWoo+Jung">
+  <img alt="GiWoo Jung" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=1F2328&background=00000000&center=true&vCenter=true&width=460&lines=GiWoo+Jung;Dev.+GiWoo+Jung">
+</picture>
 
 *"단 하나의 디테일도 놓치지 않는 집념으로, 서비스의 완성도를 극대화합니다."*
 
@@ -21,22 +23,20 @@ Welcome to my Lab.
 
 ## Tech Stack
 
-**Proficient**
+<sub>Claude Code를 중심으로 개발합니다.</sub>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Familiar**
+**Workflow**
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 <br>
 
