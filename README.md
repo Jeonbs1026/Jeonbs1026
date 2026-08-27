@@ -31,7 +31,7 @@ Welcome to my page.
 > **"찰나의 신호를 포착하여 생명을 연결하는 디지털 안전망: 머신러닝 기반의 위기 감지 챗봇"**
 
 *   **진행 기간:** 2025.11 ~ 2025.12 (1인 프로젝트 / 기여도 100%)
-*   **Tech Stack:** Kotlin, Room DB, Jetpack Compose, Google AI, FastAPI, Streamlit, 
+*   **Tech Stack:** Kotlin, Room DB, Jetpack Compose, Google AI(DialogFlow ES), FastAPI, Streamlit
 *   **주요 기능 및 역할:**
     *   [ 역할 ] 총괄
 *   **성과 및 해결한 문제 (Troubleshooting):**
