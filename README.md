@@ -6,7 +6,7 @@
   <img alt="GiWoo Jung" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=1F2328&background=00000000&center=true&vCenter=true&width=460&lines=GiWoo+Jung;Dev.+GiWoo+Jung">
 </picture>
 
-*"단 하나의 디테일도 놓치지 않는 집념으로, 서비스의 완성도를 극대화합니다."*
+*"안녕하세요. 잘하겠습니다."*
 
 [![Gmail](https://img.shields.io/badge/jeonbs1026%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeonbs1026@gmail.com)
 [![GitHub](https://img.shields.io/badge/Jeonbs1026-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jeonbs1026)
