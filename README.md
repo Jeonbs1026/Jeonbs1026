@@ -23,7 +23,7 @@ Welcome to my Lab.
 
 ## Tech Stack
 
-<sub>Claude Code를 중심으로 개발합니다.</sub>
+<sub></sub>
 
 **Languages**
 
